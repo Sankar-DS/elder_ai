@@ -4,3 +4,4 @@ speechrecognition
 gtts
 pydub
 numpy
+pyaudio
